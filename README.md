@@ -44,7 +44,7 @@ Kalman Filter book using Jupyter Notebook.
 - [Machine learning from scratch in Julia](https://github.com/odsl-team/julia-ml-from-scratch)<br>
 Tutorial on implementing an artificial neural network from scratch in Julia, including gradient descent and automatic differentiation.
 - [Machine learning technical blogs](https://github.com/antoinebrl/awesome-ml-blogs)<br>
-List of awesome machine learning technical blogs from research to deployment
+List of awesome machine learning technical blogs from research to deployment.
 - [Mathematics For Machine Learning](https://mml-book.github.io/)<br>
 Book on general machine learning concepts, from linear algebra to optimization.
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) | [\[PDF version\]](https://github.com/antonvladyka/neuralnetworksanddeeplearning.com.pdf)<br>
