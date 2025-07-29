@@ -29,6 +29,8 @@ Webpage explaining fundamental concepts of wall modelling.
 Collection of articles explaining concepts of numerical analysis including matrix factorizations, floating point operations, etc.
 
 ## Machine Learning & Optimization
+- [3Blue1Brown Neural networks series](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)<br>
+Video series visualizing the mathematics behind neural networks.
 - [Automatic Differentiation and its Efficient Implementation](https://arxiv.org/abs/1811.05031)<br>
 Review paper on automatic differentiation.
 - [Free Programming Books: Machine Learning](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#machine-learning)<br>
