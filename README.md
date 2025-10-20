@@ -71,6 +71,8 @@ Tips and tricks for using the Unix terminal command line.
 Workshop for Julia newcomers.
 
 ## Scientific Writing
+- [Guidelines for writing MSc thesis](./assets/msc_thesis_structure_guide.pdf)<br>
+Tips on MSc thesis structure.
 - [Guidelines for writing papers](https://github.com/jerabaul29/guidelines_writing_papers)<br>
 Tips on scientific writing, from style and formatting to best practices in publishing preprint and scientific articles.
 - [Latex Advice](https://github.com/dspinellis/latex-advice)<br>
